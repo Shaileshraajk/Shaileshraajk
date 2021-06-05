@@ -1,6 +1,6 @@
  # Hi there I am Shailesh 👋
-- Machine Learning Enthusiast
-- Cloud Project Developer
+- Data Enthusiast
+- Cloud Computing Analyst
 - Learning is Fun
 - 🔭 Working on **Patient Monitoring Systems**
 - 🌱 Exploring **IOT with Machine Learning**
