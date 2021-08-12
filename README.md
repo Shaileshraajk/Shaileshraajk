@@ -1,8 +1,6 @@
  # Hi there I am Shailesh 👋
-- Data Enthusiast
-- Cloud Computing Analyst
-- Learning is Fun
+- Data Science Intern at Verzeo
+- AWS Certified Cloud Practioner
 - 🌱 Exploring **Data Science with Python**
-- 💬 Let's Learn Machine Learning
 - 📫 shailesh.karthik16@gmail.com
 
