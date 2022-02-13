@@ -1,7 +1,7 @@
  # Hi there I am Shailesh 👋
+- AWS Certified Cloud Practioner
 - AWS Academy Graduate
 - Oracle Academy Program Memeber
-- AWS Certified Cloud Practioner
-- 🌱 Exploring **Data Science with Python**
+- 🌱 Exploring **Full Stack Development**
 - 📫 shailesh.karthik16@gmail.com
 
